@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10966",
+    "name": "Final Test Group 1",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "10967",
+    "name": "Final Test Group 2",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "10968",
+    "name": "Final Test Group 3",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "10969",
+    "name": "Final Test Group 4",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "23380",
+    "name": "Final Test Group 4  - 2021",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "10970",
+    "name": "Final Test Group 5",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "27980",
+    "name": "Final Test Group 5  - 2022",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "10971",
+    "name": "Final Test Group 6",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "10972",
+    "name": "Final Test Group 7",
+    "parent_id": "10910",
+    "is_final": "1"
+  },
+  {
+    "id": "23375",
+    "name": "Тест 6 Група  2021",
+    "parent_id": "10910",
+    "is_final": "1"
+  }
+]

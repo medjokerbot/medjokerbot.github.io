@@ -1,0 +1,176 @@
+[
+  {
+    "id": "4467",
+    "name": "Т14 Die Hauptstadt von Luxemburg",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "4468",
+    "name": "Т15 Das Wetter in Deutschland",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "4469",
+    "name": "Т16 Das Wetter in Deutschland",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "4470",
+    "name": "Т17 Das Wetter in der Ukraine",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "4471",
+    "name": "Т18 Das Wetter in der Ukraine",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "8451",
+    "name": "Т18 Das Wetter in der Ukraine",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "9296",
+    "name": "Т18 Das Wetter in der Ukraine",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "8452",
+    "name": "Т19 Naturkatastrophen und ihre Folgen",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "9297",
+    "name": "Т19 Naturkatastrophen und ihre Folgen",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "8453",
+    "name": "Т20 Naturkatastrophen und ihre Folgen",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "9298",
+    "name": "Т20 Naturkatastrophen und ihre Folgen",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "8454",
+    "name": "Т21 Feste und Bräuche in Deutschland",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "9299",
+    "name": "Т21 Feste und Bräuche in Deutschland",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "9300",
+    "name": "Т22 Feste und Bräuche in Deutschland",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "8455",
+    "name": "Т22 Feste und Bräuche in Deutschland",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "10558",
+    "name": "Т23 Feste und Bräuche des ukrainischen Volkes",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "10559",
+    "name": "Т24 Feste und Bräuche des ukrainischen Volkes",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "10560",
+    "name": "Т25 Deutsche Essgewohnheiten",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "11355",
+    "name": "Т26 Deutsche Essgewohnheiten",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "11356",
+    "name": "Т27 Deutsche Nationalküche",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "11357",
+    "name": "Т28 Deutsche Nationalküche",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "11999",
+    "name": "Т29 Ukrainische Essgewohnheiten",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12000",
+    "name": "Т30 Ukrainische Essgewohnheiten",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12001",
+    "name": "Т31 Ukrainische Nationalküche",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12191",
+    "name": "Т32 Ukrainische Nationalküche",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12192",
+    "name": "Т33 Gesundes Essen",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12193",
+    "name": "Т34 Gesundes Essen",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12194",
+    "name": "Т35 Leseverstehen. Hörverstehen.",
+    "parent_id": "4466",
+    "is_final": "1"
+  },
+  {
+    "id": "12195",
+    "name": "Т36 Schriftliche Kommunikation. Mündliche Kommunikation.",
+    "parent_id": "4466",
+    "is_final": "1"
+  }
+]

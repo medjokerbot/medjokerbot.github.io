@@ -1,0 +1,104 @@
+[
+  {
+    "id": "27598",
+    "name": "FINAL MODULE TEST",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "23672",
+    "name": "Final Test for Pharmaceutical Students",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27547",
+    "name": "T1_The Cell",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27548",
+    "name": "T2_Tissues of the Human Body",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27545",
+    "name": "T4_Human Senses",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27544",
+    "name": "T6_Musculoskeletal System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27599",
+    "name": "T9_Cardiovascular System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27535",
+    "name": "Т10_Respiratory System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27542",
+    "name": "Т11_Nervous System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27536",
+    "name": "Т12_Urinary System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27537",
+    "name": "Т13_Reproductive System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27539",
+    "name": "Т14_Endocrine System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27538",
+    "name": "Т15_Immune System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27546",
+    "name": "Т3_Parts of the Human Body",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27543",
+    "name": "Т5_Systems of the Human Body",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27541",
+    "name": "Т7_Digestive System",
+    "parent_id": "7515",
+    "is_final": "1"
+  },
+  {
+    "id": "27540",
+    "name": "Т8_The Blood",
+    "parent_id": "7515",
+    "is_final": "1"
+  }
+]

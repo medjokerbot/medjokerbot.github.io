@@ -1,0 +1,14 @@
+[
+  {
+    "id": "15005",
+    "name": "Thematic module 1 Cytology. General embryology",
+    "parent_id": "15003",
+    "is_final": "1"
+  },
+  {
+    "id": "15004",
+    "name": "Змістовий модуль 1 Основи цитології та ембріології",
+    "parent_id": "15003",
+    "is_final": "1"
+  }
+]

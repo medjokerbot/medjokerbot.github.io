@@ -1,0 +1,44 @@
+[
+  {
+    "id": "31877",
+    "name": "Final Test for Pharmacy Students (Year II)",
+    "parent_id": "4725",
+    "is_final": "1"
+  },
+  {
+    "id": "4726",
+    "name": "Т10 Chemical Kinetics",
+    "parent_id": "4725",
+    "is_final": "1"
+  },
+  {
+    "id": "4727",
+    "name": "Т11 Plant Anatomy",
+    "parent_id": "4725",
+    "is_final": "1"
+  },
+  {
+    "id": "4728",
+    "name": "Т12 Types of Inflorescences",
+    "parent_id": "4725",
+    "is_final": "1"
+  },
+  {
+    "id": "8500",
+    "name": "Т13 Overview of (Non) - Vascular Plants.",
+    "parent_id": "4725",
+    "is_final": "1"
+  },
+  {
+    "id": "8501",
+    "name": "Т14 Practice Test",
+    "parent_id": "4725",
+    "is_final": "1"
+  },
+  {
+    "id": "8502",
+    "name": "Т15 Recapitulation",
+    "parent_id": "4725",
+    "is_final": "1"
+  }
+]

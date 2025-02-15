@@ -1,0 +1,56 @@
+[
+  {
+    "id": "4502",
+    "name": "T10 Setting Anterior and Posterior Teeth",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "4503",
+    "name": "T11 Setting Anterior and Posterior Teeth",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "4504",
+    "name": "T12 Tissue Waxing and Contouring",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "25861",
+    "name": "T23 Final Test on Module 2",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "8448",
+    "name": "Т13 Personnel Hygiene",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "8449",
+    "name": "Т14 Personnel Hygiene",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "8450",
+    "name": "Т15 Sterilization and Disinfection",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "10531",
+    "name": "Т16 Hazards at the Dental Laboratory",
+    "parent_id": "4500",
+    "is_final": "1"
+  },
+  {
+    "id": "10532",
+    "name": "Т17Term Control Work",
+    "parent_id": "4500",
+    "is_final": "1"
+  }
+]

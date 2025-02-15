@@ -1,0 +1,26 @@
+[
+  {
+    "id": "31878",
+    "name": "Ergo Final Test (Year I)",
+    "parent_id": "4614",
+    "is_final": "1"
+  },
+  {
+    "id": "4615",
+    "name": "Т10 Leukemia",
+    "parent_id": "4614",
+    "is_final": "1"
+  },
+  {
+    "id": "4616",
+    "name": "Т5 Heart",
+    "parent_id": "4614",
+    "is_final": "1"
+  },
+  {
+    "id": "4617",
+    "name": "Т6 Circulatory Systemt",
+    "parent_id": "4614",
+    "is_final": "1"
+  }
+]

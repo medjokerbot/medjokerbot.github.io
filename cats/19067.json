@@ -1,0 +1,26 @@
+[
+  {
+    "id": "31218",
+    "name": "T1 Sense Organs",
+    "parent_id": "19067",
+    "is_final": "1"
+  },
+  {
+    "id": "19068",
+    "name": "Т1 Choose the odd one out",
+    "parent_id": "19067",
+    "is_final": "1"
+  },
+  {
+    "id": "19069",
+    "name": "Т2 Medical Terminology",
+    "parent_id": "19067",
+    "is_final": "1"
+  },
+  {
+    "id": "19568",
+    "name": "Т3 Step 1",
+    "parent_id": "19067",
+    "is_final": "1"
+  }
+]

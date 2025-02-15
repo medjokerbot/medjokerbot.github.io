@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11869",
+    "name": "ПМК2 французька мова 1 курс медичний факультет ерготерапія",
+    "parent_id": "4618",
+    "is_final": "1"
+  },
+  {
+    "id": "4619",
+    "name": "Т10 Physiologie de la circulation",
+    "parent_id": "4618",
+    "is_final": "1"
+  },
+  {
+    "id": "4620",
+    "name": "Т11 Révolution cardiaque",
+    "parent_id": "4618",
+    "is_final": "1"
+  },
+  {
+    "id": "4621",
+    "name": "Т12 Révolution cardiaque",
+    "parent_id": "4618",
+    "is_final": "1"
+  }
+]

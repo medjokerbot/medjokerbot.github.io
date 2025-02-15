@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4623",
+    "name": " Т5 Die Leber",
+    "parent_id": "4622",
+    "is_final": "1"
+  },
+  {
+    "id": "11867",
+    "name": "Modulkontrolle 2",
+    "parent_id": "4622",
+    "is_final": "1"
+  },
+  {
+    "id": "4625",
+    "name": "Т11 Qualitative und quantitative Analyse",
+    "parent_id": "4622",
+    "is_final": "1"
+  },
+  {
+    "id": "4626",
+    "name": "Т12 Das chemische Gleichgewicht",
+    "parent_id": "4622",
+    "is_final": "1"
+  },
+  {
+    "id": "4624",
+    "name": "Т6 Das Blut",
+    "parent_id": "4622",
+    "is_final": "1"
+  }
+]

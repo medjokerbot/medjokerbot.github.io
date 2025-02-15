@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11652",
+    "name": "Final Test (Part 1)",
+    "parent_id": "24652",
+    "is_final": "1"
+  },
+  {
+    "id": "11653",
+    "name": "Final Тest (Part 2)",
+    "parent_id": "24652",
+    "is_final": "1"
+  },
+  {
+    "id": "4742",
+    "name": "Т5 Pharmacology of the Nervous System",
+    "parent_id": "24652",
+    "is_final": "1"
+  },
+  {
+    "id": "4743",
+    "name": "Т6 Pharmacology of the Endocrine System",
+    "parent_id": "24652",
+    "is_final": "1"
+  },
+  {
+    "id": "8499",
+    "name": "Т7 Practice Test",
+    "parent_id": "24652",
+    "is_final": "1"
+  },
+  {
+    "id": "24662",
+    "name": "Тест_СР_Блок_5",
+    "parent_id": "24652",
+    "is_final": "1"
+  }
+]

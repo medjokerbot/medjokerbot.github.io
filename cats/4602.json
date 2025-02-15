@@ -1,0 +1,56 @@
+[
+  {
+    "id": "17476",
+    "name": "ПМК1",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "11870",
+    "name": "ПМК2 французька за проф. спрямуванням медичний 2 курс",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "4603",
+    "name": "Т10 Histoire de la tuberculose",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "4604",
+    "name": "Т11 Tuberculose",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "4605",
+    "name": "Т12 Conseils aux futures mamans",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "8471",
+    "name": "Т13 Traitement du cancer",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "8472",
+    "name": "Т14 Cancer",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "8473",
+    "name": "Т15 Médicaments",
+    "parent_id": "4602",
+    "is_final": "1"
+  },
+  {
+    "id": "10450",
+    "name": "Т16 Vitamines et minéraux",
+    "parent_id": "4602",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4697",
+    "name": " Т5 Die Halogene",
+    "parent_id": "4696",
+    "is_final": "1"
+  },
+  {
+    "id": "11872",
+    "name": "Modulkontrolle 2",
+    "parent_id": "4696",
+    "is_final": "1"
+  },
+  {
+    "id": "4699",
+    "name": "Т11 Qualitative und quantitative Analyse",
+    "parent_id": "4696",
+    "is_final": "1"
+  },
+  {
+    "id": "4700",
+    "name": "Т12 Das chemische Gleichgewicht",
+    "parent_id": "4696",
+    "is_final": "1"
+  },
+  {
+    "id": "4698",
+    "name": "Т6 Kristallisation",
+    "parent_id": "4696",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16241",
+    "name": "Final Test",
+    "parent_id": "16240",
+    "is_final": "1"
+  },
+  {
+    "id": "16843",
+    "name": "Lesson 2",
+    "parent_id": "16240",
+    "is_final": "1"
+  },
+  {
+    "id": "16844",
+    "name": "Lesson 3",
+    "parent_id": "16240",
+    "is_final": "1"
+  },
+  {
+    "id": "16845",
+    "name": "Lesson 4",
+    "parent_id": "16240",
+    "is_final": "1"
+  },
+  {
+    "id": "16846",
+    "name": "Lesson 5",
+    "parent_id": "16240",
+    "is_final": "1"
+  },
+  {
+    "id": "24660",
+    "name": "Тест_СР_Блок_5",
+    "parent_id": "16240",
+    "is_final": "1"
+  }
+]

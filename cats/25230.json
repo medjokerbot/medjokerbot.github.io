@@ -1,0 +1,140 @@
+[
+  {
+    "id": "32828",
+    "name": "FINAL TEST",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32811",
+    "name": "T1_What is Pharmacy",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32820",
+    "name": "T10_Nervous System Drug Therapy",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32821",
+    "name": "T11_Gastrointestinal Medications",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32822",
+    "name": "T12_Antimicrobials",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32823",
+    "name": "T13_Drug Therapy for Respiratory Disorders and Allergies",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32824",
+    "name": "T14_Hormones and Related Drugs",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32825",
+    "name": "T15_Genitourinary Tract Agents",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32826",
+    "name": "T16_Antineoplastic Agents",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32812",
+    "name": "T2_Drug Sources, Names and Categories",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32813",
+    "name": "T3_Routes of Drug Administration",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32814",
+    "name": "T4_Solid and Semisolid Dosage Forms",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32815",
+    "name": "T5_Liquid and Gaseous Dosage Forms",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32816",
+    "name": "T6_Medicinal Herbs",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32817",
+    "name": "T7_Medical Prescription",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32818",
+    "name": "T8_Drug Safety",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32819",
+    "name": "T9_Common Cardiovascular Medications",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32827",
+    "name": "МІЖСЕСІЙНЕ ТЕСТУВАННЯ",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "26025",
+    "name": "Final Test",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "25219",
+    "name": "T8_Antihistamines",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "25648",
+    "name": "Міжсесійне тестування 2",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32796",
+    "name": "T 12 Antimicrobials",
+    "parent_id": "25230",
+    "is_final": "1"
+  },
+  {
+    "id": "32795",
+    "name": "T11_Gastrointestinal Medications",
+    "parent_id": "25230",
+    "is_final": "1"
+  }
+]

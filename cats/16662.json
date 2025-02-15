@@ -1,0 +1,116 @@
+[
+  {
+    "id": "25980",
+    "name": "Concept of Health and Disease",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "31879",
+    "name": "Final Test for Medical Students (Year I)",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "26599",
+    "name": "Formulating a Diagnosis",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "26569",
+    "name": "Laboratory Tests",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "26918",
+    "name": "Medical Ethics",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "26023",
+    "name": "Medical History",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "32497",
+    "name": "Noun_Adjective_Article",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "27665",
+    "name": "Organ Systems",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "27664",
+    "name": "Organization of the Human Body",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "26129",
+    "name": "Physical Examination",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "27533",
+    "name": "Structure of Limbs",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "25252",
+    "name": "T_9 Seeing a Doctor",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "25450",
+    "name": "T10 At the Surgery Unit",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "25650",
+    "name": "T11 International Health Agencies",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "25227",
+    "name": "T7 Medical Specialties",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "25160",
+    "name": "T8_Emergency Medicine",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "27123",
+    "name": "The Head",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "27262",
+    "name": "Trunk",
+    "parent_id": "16662",
+    "is_final": "1"
+  },
+  {
+    "id": "32496",
+    "name": "Types of Healthcare Institutions",
+    "parent_id": "16662",
+    "is_final": "1"
+  }
+]

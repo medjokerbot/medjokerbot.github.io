@@ -1,0 +1,26 @@
+[
+  {
+    "id": "35832",
+    "name": "Biochemistry. Module1(англ.мова). Biomolecules, metabolic pathways.GM 2024-2025нр.",
+    "parent_id": "34230",
+    "is_final": "1"
+  },
+  {
+    "id": "34229",
+    "name": "Взірець",
+    "parent_id": "34230",
+    "is_final": "1"
+  },
+  {
+    "id": "35906",
+    "name": "Модуль 2 англійська мова 2024-2025",
+    "parent_id": "34230",
+    "is_final": "1"
+  },
+  {
+    "id": "35816",
+    "name": "модуль №2 укр.мова 2024-2025нр",
+    "parent_id": "34230",
+    "is_final": "1"
+  }
+]

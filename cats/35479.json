@@ -1,0 +1,20 @@
+[
+  {
+    "id": "35709",
+    "name": "Français test final 1",
+    "parent_id": "35479",
+    "is_final": "1"
+  },
+  {
+    "id": "35959",
+    "name": "ПМК№1 ДІ (нім) 3 сем 2 курс",
+    "parent_id": "35479",
+    "is_final": "1"
+  },
+  {
+    "id": "35482",
+    "name": "Взірець",
+    "parent_id": "35479",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "24661",
+    "name": "Тест_СР_Іноз_мова_за_проф_англ",
+    "parent_id": "17031",
+    "is_final": "1"
+  },
+  {
+    "id": "25941",
+    "name": "Final Test pharm2 mod1",
+    "parent_id": "17031",
+    "is_final": "1"
+  },
+  {
+    "id": "27776",
+    "name": "Т 19 Modulkontrolle 1",
+    "parent_id": "17031",
+    "is_final": "1"
+  }
+]

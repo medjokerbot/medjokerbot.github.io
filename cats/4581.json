@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4582",
+    "name": " Т5 Die Leber",
+    "parent_id": "4581",
+    "is_final": "1"
+  },
+  {
+    "id": "11866",
+    "name": "Modulkontrolle 2",
+    "parent_id": "4581",
+    "is_final": "1"
+  },
+  {
+    "id": "4583",
+    "name": "Т6 Das Blut",
+    "parent_id": "4581",
+    "is_final": "1"
+  },
+  {
+    "id": "8464",
+    "name": "Т7 Das Herz",
+    "parent_id": "4581",
+    "is_final": "1"
+  }
+]

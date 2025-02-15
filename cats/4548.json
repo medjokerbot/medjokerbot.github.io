@@ -1,0 +1,56 @@
+[
+  {
+    "id": "30171",
+    "name": "T17 Abschlusstest Modul 2",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "4551",
+    "name": "Т10 Herstellung der Pillen",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "8417",
+    "name": "Т11 Herstellung von Pulvern als Arzneiform",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "8418",
+    "name": "Т12 Herstellung des Dragees",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "8416",
+    "name": "Т13 Heilpflanzen",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "10547",
+    "name": "Т14 Arzneiformen",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "10548",
+    "name": "Т15 Arzneien",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "4549",
+    "name": "Т8 Aufbewahrung von Arzneimitteln",
+    "parent_id": "4548",
+    "is_final": "1"
+  },
+  {
+    "id": "4550",
+    "name": "Т9 Der Weg zur Entwicklung eines neuen Arzneimittels",
+    "parent_id": "4548",
+    "is_final": "1"
+  }
+]

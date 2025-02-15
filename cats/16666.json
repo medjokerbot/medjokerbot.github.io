@@ -1,0 +1,104 @@
+[
+  {
+    "id": "25981",
+    "name": "Concept of Health and Disease",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "31881",
+    "name": "Final Test for Medical Students (Year I)",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "26600",
+    "name": "Formulating a Diagnosis",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "26570",
+    "name": "Laboratory Tests",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "26919",
+    "name": "Medical Ethics",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "26024",
+    "name": "Medical History",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "27667",
+    "name": "Organ Systems",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "27666",
+    "name": "Organization of the Human Body",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "26130",
+    "name": "Physical Examination",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "27534",
+    "name": "Structure of Limbs",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "25253",
+    "name": "T_9 Seeing a Doctor",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "25451",
+    "name": "T10 At the Surgery Unit",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "25651",
+    "name": "T11 International Health Agencies",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "25228",
+    "name": "T7 Medical Specialties",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "25161",
+    "name": "T8_Emergency Medicine",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "27124",
+    "name": "The Head",
+    "parent_id": "16666",
+    "is_final": "1"
+  },
+  {
+    "id": "27263",
+    "name": "Trunk",
+    "parent_id": "16666",
+    "is_final": "1"
+  }
+]

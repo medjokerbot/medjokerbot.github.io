@@ -1,0 +1,26 @@
+[
+  {
+    "id": "32885",
+    "name": "Final Test (module 2)",
+    "parent_id": "32298",
+    "is_final": "1"
+  },
+  {
+    "id": "32566",
+    "name": "ПМК 1",
+    "parent_id": "32298",
+    "is_final": "1"
+  },
+  {
+    "id": "34459",
+    "name": "ПМК 4",
+    "parent_id": "32298",
+    "is_final": "1"
+  },
+  {
+    "id": "32308",
+    "name": "Взірець",
+    "parent_id": "32298",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17067",
+    "name": "General Module 1 Cytology. General Histology and Embryology",
+    "parent_id": "14998",
+    "is_final": "1"
+  },
+  {
+    "id": "15000",
+    "name": "Thematic module 1 Cytology. General embryology",
+    "parent_id": "14998",
+    "is_final": "1"
+  },
+  {
+    "id": "17068",
+    "name": "Thematic Module 2 \"General Histology\"",
+    "parent_id": "14998",
+    "is_final": "1"
+  },
+  {
+    "id": "14999",
+    "name": "Змістовий модуль 1 Основи цитології та ембріології",
+    "parent_id": "14998",
+    "is_final": "1"
+  },
+  {
+    "id": "17069",
+    "name": "Змістовий модуль 2 \"Загальна гістологія\"",
+    "parent_id": "14998",
+    "is_final": "1"
+  },
+  {
+    "id": "17070",
+    "name": "Підсумковий модульний контроль1 Цитологія. Загальна гістологія та ембріологія",
+    "parent_id": "14998",
+    "is_final": "1"
+  }
+]

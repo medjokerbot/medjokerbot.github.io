@@ -1,0 +1,38 @@
+[
+  {
+    "id": "34395",
+    "name": "1 Structure, functions and catabolism of nucleic acids. Protein synthesis and regulation of gene expression.",
+    "parent_id": "34228",
+    "is_final": "1"
+  },
+  {
+    "id": "35827",
+    "name": "1 Модуль 1 укр.мова 2024-2025нр",
+    "parent_id": "34228",
+    "is_final": "1"
+  },
+  {
+    "id": "34391",
+    "name": "1.Підсумковий модульний контроль 3",
+    "parent_id": "34228",
+    "is_final": "1"
+  },
+  {
+    "id": "35831",
+    "name": "Biochemistry. Module1(англ.мова). Biomolecules, metabolic pathways.GM 2024-2025нр.",
+    "parent_id": "34228",
+    "is_final": "1"
+  },
+  {
+    "id": "35905",
+    "name": "Модуль 2 англійська мова 2024-2025",
+    "parent_id": "34228",
+    "is_final": "1"
+  },
+  {
+    "id": "35813",
+    "name": "модуль №2 укр.мова 2024-2025нр",
+    "parent_id": "34228",
+    "is_final": "1"
+  }
+]

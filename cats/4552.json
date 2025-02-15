@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4555",
+    "name": "Т10 Plantes",
+    "parent_id": "4552",
+    "is_final": "1"
+  },
+  {
+    "id": "8419",
+    "name": "Т11 Plantes",
+    "parent_id": "4552",
+    "is_final": "1"
+  },
+  {
+    "id": "8420",
+    "name": "Т12 Plantes",
+    "parent_id": "4552",
+    "is_final": "1"
+  },
+  {
+    "id": "8421",
+    "name": "Т13 Plantes médicinales",
+    "parent_id": "4552",
+    "is_final": "1"
+  },
+  {
+    "id": "10549",
+    "name": "Т14 Plantes médicinales",
+    "parent_id": "4552",
+    "is_final": "1"
+  },
+  {
+    "id": "10550",
+    "name": "Т15 Révision",
+    "parent_id": "4552",
+    "is_final": "1"
+  }
+]

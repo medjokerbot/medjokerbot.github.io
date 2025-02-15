@@ -1,0 +1,92 @@
+[
+  {
+    "id": "34455",
+    "name": "Final Test on Module",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "25985",
+    "name": "T16 Term Control Work",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "11311",
+    "name": "T18 Temperature and Pulse",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "11312",
+    "name": "T19 Respiration. Difficulties in Breathing",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "4394",
+    "name": "Т10 Nurses’ Specialties",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "4393",
+    "name": "Т11 A Working Day of a Nurse",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "4395",
+    "name": "Т12 My Future Profession",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "8366",
+    "name": "Т13 Nursing Care Records",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "8367",
+    "name": "Т14 Electronic Health Records",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "8368",
+    "name": "Т15 Infection Prevention",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "10507",
+    "name": "Т16Daily Care of the Patient",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "10508",
+    "name": "Т17Morning Rounds. Patients With Limited Mobility",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "11955",
+    "name": "Т20 Laboratory Tests",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "11956",
+    "name": "Т21 Term Control Work",
+    "parent_id": "4392",
+    "is_final": "1"
+  },
+  {
+    "id": "31961",
+    "name": "T21 Final Test on Module",
+    "parent_id": "4392",
+    "is_final": "1"
+  }
+]

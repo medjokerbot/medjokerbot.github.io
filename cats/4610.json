@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11865",
+    "name": "Модуль 2 Англійська Медичний",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "4611",
+    "name": "Т10 Infections",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "4612",
+    "name": "Т11 Childhood Bacterial Infections",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "4613",
+    "name": "Т12 Childhood Viral Infections",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "8485",
+    "name": "Т13 Influenza",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "8486",
+    "name": "Т14 Types of Tumours",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "10156",
+    "name": "Т15 Childhood Cancers",
+    "parent_id": "4610",
+    "is_final": "1"
+  },
+  {
+    "id": "10453",
+    "name": "Т16 Mental Retardation",
+    "parent_id": "4610",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "34456",
+    "name": "T21 Modulkontrolle",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "11957",
+    "name": "Т 20 Die Bluttransfusion",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "4398",
+    "name": "Т10 Die Verdauung. Der Magen",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "4399",
+    "name": "Т11 Die gröβten Drüsen der Bauchhöhle. Die Leber",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "4400",
+    "name": "Т12 Wie erhält man die Verdauungsorgane gesund",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "8369",
+    "name": "Т13 Die Zähne",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "8370",
+    "name": "Т14 Das Atmungssystem. Die Lungen",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "8371",
+    "name": "Т15 Krankheiten der Atemorgane",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "10509",
+    "name": "Т16 Der Operationssaal",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "10510",
+    "name": "Т17 Die Anästhesie",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "11313",
+    "name": "Т18 Der Schmerz",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "11314",
+    "name": "Т19 Das Blut. Zusammensetzung des Blutes",
+    "parent_id": "4397",
+    "is_final": "1"
+  },
+  {
+    "id": "11958",
+    "name": "Т21 Herz- und Blutkreislauf. Das Herz.",
+    "parent_id": "4397",
+    "is_final": "1"
+  }
+]

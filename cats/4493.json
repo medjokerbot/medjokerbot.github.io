@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4495",
+    "name": "T10 Disorders of the oral cavity",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "4494",
+    "name": "T11 Congenital Stomatological Disorders",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "4496",
+    "name": "T12 Acquired Stomatological Disorders",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "23590",
+    "name": "T19Final Test on Module 1",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "8441",
+    "name": "Т13 Bruxism",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "8442",
+    "name": "Т14 Malocclusions",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "8443",
+    "name": "Т15 Dental Caries",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "10528",
+    "name": "Т16 Stomatitis",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "10529",
+    "name": "Т17 Periodontitis",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "11322",
+    "name": "Т18 Oncological Disorders of the Oral Cavity",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "11323",
+    "name": "Т19 AIDS in Dentistry",
+    "parent_id": "4493",
+    "is_final": "1"
+  },
+  {
+    "id": "11976",
+    "name": "Т20Term Control Work",
+    "parent_id": "4493",
+    "is_final": "1"
+  }
+]

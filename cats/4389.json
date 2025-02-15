@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4390",
+    "name": "Т10 Das Bildungswesen in der Ukraine",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "4391",
+    "name": "Т11 So viele schöne Berufe",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "8363",
+    "name": "Т11 So viele schöne Berufe",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "9287",
+    "name": "Т11 So viele schöne Berufe",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "8364",
+    "name": "Т12 Mein zukünftiger Beruf",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "9288",
+    "name": "Т12 Mein zukünftiger Beruf",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "8365",
+    "name": "Т13 Mein zukünftiger Beruf",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "9289",
+    "name": "Т13 Mein zukünftiger Beruf",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "11360",
+    "name": "Т14 Leseverstehen. Hörverstehen.",
+    "parent_id": "4389",
+    "is_final": "1"
+  },
+  {
+    "id": "11361",
+    "name": "Т15 Schriftliche Kommunikation. Mündliche Kommunikation.",
+    "parent_id": "4389",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "427",
+    "name": "1 Курс",
+    "parent_id": "426",
+    "is_final": "0"
+  },
+  {
+    "id": "430",
+    "name": "2 Курс",
+    "parent_id": "426",
+    "is_final": "0"
+  },
+  {
+    "id": "567",
+    "name": "3 курс",
+    "parent_id": "426",
+    "is_final": "0"
+  },
+  {
+    "id": "530",
+    "name": "4 Курс",
+    "parent_id": "426",
+    "is_final": "0"
+  },
+  {
+    "id": "433",
+    "name": "5 Курс",
+    "parent_id": "426",
+    "is_final": "0"
+  },
+  {
+    "id": "434",
+    "name": "6 Курс",
+    "parent_id": "426",
+    "is_final": "0"
+  },
+  {
+    "id": "652",
+    "name": "ПО",
+    "parent_id": "426",
+    "is_final": "0"
+  }
+]

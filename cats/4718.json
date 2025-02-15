@@ -1,0 +1,44 @@
+[
+  {
+    "id": "22776",
+    "name": "Final Test for Pharmaceutical Students_1",
+    "parent_id": "4718",
+    "is_final": "1"
+  },
+  {
+    "id": "4719",
+    "name": "Т10 Anatomy and Physiology of Respiration",
+    "parent_id": "4718",
+    "is_final": "1"
+  },
+  {
+    "id": "7330",
+    "name": "Т11 General Structure of the Nervous System",
+    "parent_id": "4718",
+    "is_final": "1"
+  },
+  {
+    "id": "7331",
+    "name": "Т12 Urinary System",
+    "parent_id": "4718",
+    "is_final": "1"
+  },
+  {
+    "id": "8512",
+    "name": "Т13 Reproductive System",
+    "parent_id": "4718",
+    "is_final": "1"
+  },
+  {
+    "id": "8513",
+    "name": "Т14_Endocrine system",
+    "parent_id": "4718",
+    "is_final": "1"
+  },
+  {
+    "id": "8514",
+    "name": "Т15_Immune system",
+    "parent_id": "4718",
+    "is_final": "1"
+  }
+]

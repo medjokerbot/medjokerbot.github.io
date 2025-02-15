@@ -1,0 +1,152 @@
+[
+  {
+    "id": "4506",
+    "name": "T13 Travelling",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "4507",
+    "name": "T14 Travelling",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "4508",
+    "name": "T15 Types of Accommodation",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "4509",
+    "name": "T16 Communication",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "4510",
+    "name": "T17 Press",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11981",
+    "name": "T22 WRITING",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11982",
+    "name": "T23 READING",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11977",
+    "name": "T30 My Native Town",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11983",
+    "name": "T31 Outstanding People of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "12254",
+    "name": "T35 WRITING",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "12255",
+    "name": "T36 READING",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "9578",
+    "name": "Т19 Modern Technologies in Medicine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "9579",
+    "name": "Т20 Environmental Problems and Their Influence on People’s Life",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "9580",
+    "name": "Т21Environmental Problems and their Influence On People’s Life",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "9581",
+    "name": "Т22 Geographical Position Of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "9582",
+    "name": "Т23Geographical Position of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "10534",
+    "name": "Т24Climate of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "10535",
+    "name": "Т25 Climate Based Therapy",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "10536",
+    "name": "Т26The Political System of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11324",
+    "name": "Т27 The Political System of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11325",
+    "name": "Т28 Kyiv, the Capital of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11326",
+    "name": "Т29 Ivano-Frankivsk",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11980",
+    "name": "Т32Outstanding People of Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11978",
+    "name": "Т33Holidays in Ukraine",
+    "parent_id": "4505",
+    "is_final": "1"
+  },
+  {
+    "id": "11979",
+    "name": "Т34 My Favourite Holiday",
+    "parent_id": "4505",
+    "is_final": "1"
+  }
+]

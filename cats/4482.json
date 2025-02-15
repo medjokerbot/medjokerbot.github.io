@@ -1,0 +1,56 @@
+[
+  {
+    "id": "31763",
+    "name": "T13 Final Test on Module",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "9576",
+    "name": "T14 Setting Anterior and Posterior Teeth",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "9577",
+    "name": "T15 Tissue Waxing and Contouring",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "4483",
+    "name": "Т10 Dental Bridges",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "4484",
+    "name": "Т11 Dental Implants",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "4485",
+    "name": "Т12 Types of Dentures",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "9575",
+    "name": "Т13 Steps in Making Dentures",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "10525",
+    "name": "Т16 Personnel Hygiene",
+    "parent_id": "4482",
+    "is_final": "1"
+  },
+  {
+    "id": "10526",
+    "name": "Т17 Sterilization and Disinfection",
+    "parent_id": "4482",
+    "is_final": "1"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "11873",
+    "name": "ПМК2 французька мова 1 курс фармацевтичний факультет",
+    "parent_id": "4688",
+    "is_final": "1"
+  },
+  {
+    "id": "4689",
+    "name": "Т10 Cerveau",
+    "parent_id": "4688",
+    "is_final": "1"
+  },
+  {
+    "id": "8504",
+    "name": "Т10 Cerveau",
+    "parent_id": "4688",
+    "is_final": "1"
+  },
+  {
+    "id": "4690",
+    "name": "Т11 Mouvements reflexes",
+    "parent_id": "4688",
+    "is_final": "1"
+  },
+  {
+    "id": "8505",
+    "name": "Т11 Mouvements reflexes",
+    "parent_id": "4688",
+    "is_final": "1"
+  }
+]

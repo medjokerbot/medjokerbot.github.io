@@ -1,0 +1,116 @@
+[
+  {
+    "id": "4370",
+    "name": "Т10 Liechtenstein",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "4371",
+    "name": "Т11 Luxemburg",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "4372",
+    "name": "Т12 Luxemburg",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "8347",
+    "name": "Т13 Die Hauptstadt von Luxemburg",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "9284",
+    "name": "Т13 Die Hauptstadt von Luxemburg",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "8348",
+    "name": "Т14 Die Hauptstadt von Luxemburg",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "9285",
+    "name": "Т14 Die Hauptstadt von Luxemburg",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "10553",
+    "name": "Т15 Das Wetter in Deutschland",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "12125",
+    "name": "Т15 Das Wetter in Deutschland",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "9286",
+    "name": "Т15 Das Wetter in Deutschland",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "8349",
+    "name": "Т15 Das Wetter in Deutschland",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "10554",
+    "name": "Т18 Das Wetter in der Ukraine",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "11350",
+    "name": "Т18 Das Wetter in der Ukraine",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "12126",
+    "name": "Т18 Das Wetter in der Ukraine",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "11735",
+    "name": "Т19 Naturkatastrophen und ihre Folgen",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "11994",
+    "name": "Т20 Naturkatastrophen und ihre Folgen",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "11995",
+    "name": "Т21 Leseverstehen. Hörverstehen.",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "12184",
+    "name": "Т22 Schriftliche Kommunikation. Mündliche Kommunikation.",
+    "parent_id": "4369",
+    "is_final": "1"
+  },
+  {
+    "id": "12185",
+    "name": "Т23 Zusammenfassung.",
+    "parent_id": "4369",
+    "is_final": "1"
+  }
+]

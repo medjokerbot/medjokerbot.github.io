@@ -1,0 +1,32 @@
+[
+  {
+    "id": "11885",
+    "name": "Модуль 2 стомат 1 курс",
+    "parent_id": "4632",
+    "is_final": "1"
+  },
+  {
+    "id": "4635",
+    "name": "Т10 Tooth extraction",
+    "parent_id": "4632",
+    "is_final": "1"
+  },
+  {
+    "id": "4633",
+    "name": "Т11 Cosmetic dentistry",
+    "parent_id": "4632",
+    "is_final": "1"
+  },
+  {
+    "id": "4634",
+    "name": "Т12 Dental braces",
+    "parent_id": "4632",
+    "is_final": "1"
+  },
+  {
+    "id": "8489",
+    "name": "Т13 Teeth Whitening",
+    "parent_id": "4632",
+    "is_final": "1"
+  }
+]

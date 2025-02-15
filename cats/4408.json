@@ -1,0 +1,68 @@
+[
+  {
+    "id": "4409",
+    "name": "Т10 Ostéologie",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "4410",
+    "name": "Т11 Squelette",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "8377",
+    "name": "Т13 Biochimie",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "8378",
+    "name": "Т14 Constituents chimiques de la cellule",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "8379",
+    "name": "Т15 Myologie",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "10511",
+    "name": "Т16 Anatomie descriptive des muscles",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "10512",
+    "name": "Т17 Higienne musculaire",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "11306",
+    "name": "Т18 Science médicale de France",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "11307",
+    "name": "Т19 Science médicale de France",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "11959",
+    "name": "Т20 Révision",
+    "parent_id": "4408",
+    "is_final": "1"
+  },
+  {
+    "id": "11960",
+    "name": "Т21 Révision",
+    "parent_id": "4408",
+    "is_final": "1"
+  }
+]

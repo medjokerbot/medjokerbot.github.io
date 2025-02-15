@@ -1,0 +1,56 @@
+[
+  {
+    "id": "11871",
+    "name": "Modulkontrolle 2",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "4599",
+    "name": "Т10 Gesundheitspflege in Schwangerschaft und die WHO zum Schutz des Kindes",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "4600",
+    "name": "Т11 Die ansteckenden Kinderkrankheiten",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "4601",
+    "name": "Т12 Geschwülste und ihre Arten",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "8474",
+    "name": "Т13 Magenkrebs",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "8475",
+    "name": "Т14 Milchdrüsenkrebs",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "8476",
+    "name": "Т15 Arzneimittel unserer Tage",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "10451",
+    "name": "Т16 Heilpflanzen",
+    "parent_id": "4597",
+    "is_final": "1"
+  },
+  {
+    "id": "4598",
+    "name": "Т9 Die Tuberkulose",
+    "parent_id": "4597",
+    "is_final": "1"
+  }
+]

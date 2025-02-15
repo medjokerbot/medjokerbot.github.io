@@ -1,0 +1,62 @@
+[
+  {
+    "id": "11639",
+    "name": "Т1 Parts of the Human Body",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11648",
+    "name": "Т10_Immune System",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11640",
+    "name": "Т2 Systems of the Human Body",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11641",
+    "name": "Т3 Digestive System and Digestion",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11642",
+    "name": "Т4 The Blood",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11643",
+    "name": "Т5 Respiratory System",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11644",
+    "name": "Т6 Nervous System",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11645",
+    "name": "Т7 Urinary System",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11646",
+    "name": "Т8 Reproductive System",
+    "parent_id": "11638",
+    "is_final": "1"
+  },
+  {
+    "id": "11647",
+    "name": "Т9 Endocrine System",
+    "parent_id": "11638",
+    "is_final": "1"
+  }
+]

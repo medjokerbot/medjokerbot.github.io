@@ -1,0 +1,68 @@
+[
+  {
+    "id": "27899",
+    "name": "Т 19 Modulkontrolle 1",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "4534",
+    "name": "Т10 In der Poliklinik",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "4535",
+    "name": "Т11 Im Krankenhaus",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "4536",
+    "name": "Т12 In der Apotheke",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "8405",
+    "name": "Т13 In der Apotheke",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "8406",
+    "name": "Т14 Zellen- und Gewebelehre",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "8404",
+    "name": "Т15 Das menschliche Gewebe",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "10541",
+    "name": "Т16 Der menschliche Körperbau",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "10542",
+    "name": "Т17 Der menschliche Körperbau",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "11330",
+    "name": "Т18 Das Muskelsystem",
+    "parent_id": "4533",
+    "is_final": "1"
+  },
+  {
+    "id": "11331",
+    "name": "Т19 Innere Organe des Menschen",
+    "parent_id": "4533",
+    "is_final": "1"
+  }
+]

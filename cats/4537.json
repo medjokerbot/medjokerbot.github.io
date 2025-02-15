@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4538",
+    "name": "Т10 Première vaccination antirabique",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "4539",
+    "name": "Т11 Assistance médical en France",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "4540",
+    "name": "Т12 Assistance médical en France",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "8407",
+    "name": "Т13 Classification simplifiée des aliments composés",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "8408",
+    "name": "Т14 Classification simplifiée des aliments composés",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "8409",
+    "name": "Т15 Chez le docteur",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "10543",
+    "name": "Т16 Chez le docteur",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "10544",
+    "name": "Т17 Ostéologie",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "11304",
+    "name": "Т18 Ostéologie",
+    "parent_id": "4537",
+    "is_final": "1"
+  },
+  {
+    "id": "11305",
+    "name": "Т19 Révision",
+    "parent_id": "4537",
+    "is_final": "1"
+  }
+]

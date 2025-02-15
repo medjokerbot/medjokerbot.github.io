@@ -1,0 +1,68 @@
+[
+  {
+    "id": "4528",
+    "name": "T10 Chemistry",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "4529",
+    "name": "T11 Atoms and Molecules",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "4530",
+    "name": "T12 Elements",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "9583",
+    "name": "T13 D. I. Mendeleyev",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "9584",
+    "name": "T14 The Periodic Table of the Chemical Elements",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "8403",
+    "name": "T15 Chemical Reactions",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "27763",
+    "name": "T19 Final Test on Module 1",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "10539",
+    "name": "Т16 Acids and Bases",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "10540",
+    "name": "Т17 Chemical Compounds",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "11328",
+    "name": "Т18 Water",
+    "parent_id": "4527",
+    "is_final": "1"
+  },
+  {
+    "id": "11329",
+    "name": "Т19Proteins, Carbohydrates and Fats",
+    "parent_id": "4527",
+    "is_final": "1"
+  }
+]
