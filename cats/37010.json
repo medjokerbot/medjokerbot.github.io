@@ -18,8 +18,56 @@
     "is_final": "1"
   },
   {
+    "id": "37684",
+    "name": "LECTURE 10 Terminography",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37681",
+    "name": "LECTURE 2 Medical Terminology_Term Formation",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37682",
+    "name": "LECTURE 8 Eponymy_Homonymy_Polysemy",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37683",
+    "name": "LECTURE 9 Synonymy_Antonymy",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
     "id": "37443",
     "name": "T2_Digestive System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37685",
+    "name": "T3_Blood and Lymphatic System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37756",
+    "name": "T4_Cardiovascular System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37757",
+    "name": "T5_Respiratory System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "37850",
+    "name": "T6_Nervous System",
     "parent_id": "37010",
     "is_final": "1"
   }

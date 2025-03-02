@@ -1,0 +1,44 @@
+[
+  {
+    "id": "37790",
+    "name": "T1_Musculoskeletal System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "37791",
+    "name": "T2_Digestive System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "37792",
+    "name": "T3_Blood and Lymphatic System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "37793",
+    "name": "T4_Cardiovascular System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "37794",
+    "name": "T5_Respiratory System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "37849",
+    "name": "T6_Nervous System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "37789",
+    "name": "Взірець",
+    "parent_id": "37788",
+    "is_final": "1"
+  }
+]
