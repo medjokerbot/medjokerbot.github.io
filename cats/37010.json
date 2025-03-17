@@ -70,5 +70,23 @@
     "name": "T6_Nervous System",
     "parent_id": "37010",
     "is_final": "1"
+  },
+  {
+    "id": "38029",
+    "name": "T7_Sensory System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "38030",
+    "name": "T8_Integumantary System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "38031",
+    "name": "T9_Endocrine System",
+    "parent_id": "37010",
+    "is_final": "1"
   }
 ]

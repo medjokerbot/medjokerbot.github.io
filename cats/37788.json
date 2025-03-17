@@ -36,6 +36,24 @@
     "is_final": "1"
   },
   {
+    "id": "38032",
+    "name": "T7_Sensory System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "38033",
+    "name": "T8_Integumantary System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
+    "id": "38034",
+    "name": "T9_Endocrine System",
+    "parent_id": "37788",
+    "is_final": "1"
+  },
+  {
     "id": "37789",
     "name": "Взірець",
     "parent_id": "37788",
