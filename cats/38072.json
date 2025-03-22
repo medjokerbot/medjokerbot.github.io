@@ -1,5 +1,59 @@
 [
   {
+    "id": "38105",
+    "name": "T1_Musculoskeletal System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38106",
+    "name": "T2_Digestive System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38107",
+    "name": "T3_Blood and Lymphatic System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38108",
+    "name": "T4_Cardiovascular System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38109",
+    "name": "T5_Respiratory System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38110",
+    "name": "T6_Nervous System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38111",
+    "name": "T7_Sensory System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38112",
+    "name": "T8_Integumantary System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
+    "id": "38113",
+    "name": "T9_Endocrine System",
+    "parent_id": "38072",
+    "is_final": "1"
+  },
+  {
     "id": "38073",
     "name": "Взірець",
     "parent_id": "38072",
