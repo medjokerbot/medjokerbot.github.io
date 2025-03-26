@@ -12,6 +12,12 @@
     "is_final": "1"
   },
   {
+    "id": "38193",
+    "name": "FINAL TEST",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
     "id": "37442",
     "name": "LECTURE 1_Term_Terminology_TS",
     "parent_id": "37010",
@@ -38,6 +44,18 @@
   {
     "id": "37683",
     "name": "LECTURE 9 Synonymy_Antonymy",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "38194",
+    "name": "SW1_Urinary System",
+    "parent_id": "37010",
+    "is_final": "1"
+  },
+  {
+    "id": "38195",
+    "name": "SW2_Reproductive System",
     "parent_id": "37010",
     "is_final": "1"
   },
