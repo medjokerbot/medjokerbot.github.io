@@ -4,5 +4,11 @@
     "name": "Взірець",
     "parent_id": "35465",
     "is_final": "1"
+  },
+  {
+    "id": "38273",
+    "name": "ERGO Final Test (Year I)",
+    "parent_id": "35465",
+    "is_final": "1"
   }
 ]
