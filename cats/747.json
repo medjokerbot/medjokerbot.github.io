@@ -696,6 +696,12 @@
     "is_final": "1"
   },
   {
+    "id": "38453",
+    "name": "M2.ПМК. Physiology of visceral systems",
+    "parent_id": "747",
+    "is_final": "1"
+  },
+  {
     "id": "20285",
     "name": "M1.ПМК. General physiology and higher integrative functions",
     "parent_id": "747",
