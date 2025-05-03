@@ -4,5 +4,11 @@
     "name": "Взірець",
     "parent_id": "35451",
     "is_final": "1"
+  },
+  {
+    "id": "38531",
+    "name": "FINAL TEST COSMETOLOGY 2",
+    "parent_id": "35451",
+    "is_final": "1"
   }
 ]

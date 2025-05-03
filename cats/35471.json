@@ -4,5 +4,11 @@
     "name": "Взірець",
     "parent_id": "35471",
     "is_final": "1"
+  },
+  {
+    "id": "38530",
+    "name": "FINAL TEST NURSES 2",
+    "parent_id": "35471",
+    "is_final": "1"
   }
 ]
