@@ -28,5 +28,11 @@
     "name": "Т13 Teeth Whitening",
     "parent_id": "4632",
     "is_final": "1"
+  },
+  {
+    "id": "38615",
+    "name": "FINAL TEST FOR DENTISTRY TERM 2 PROF",
+    "parent_id": "4632",
+    "is_final": "1"
   }
 ]
