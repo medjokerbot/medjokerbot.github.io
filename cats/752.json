@@ -240,13 +240,19 @@
     "is_final": "1"
   },
   {
+    "id": "39044",
+    "name": "M1.ПМК. General physiology and higher integrative functions",
+    "parent_id": "752",
+    "is_final": "1"
+  },
+  {
     "id": "38075",
     "name": "M1.ПМК. Загальна фізіологія та вищі інтегративні функції",
     "parent_id": "752",
     "is_final": "1"
   },
   {
-    "id": "38452",
+    "id": "39043",
     "name": "M2.ПМК. Physiology of visceral systems",
     "parent_id": "752",
     "is_final": "1"
@@ -547,6 +553,12 @@
   },
   {
     "id": "34844",
+    "name": "M2.ПМК. Physiology of visceral systems",
+    "parent_id": "752",
+    "is_final": "1"
+  },
+  {
+    "id": "38452",
     "name": "M2.ПМК. Physiology of visceral systems",
     "parent_id": "752",
     "is_final": "1"
