@@ -150,6 +150,30 @@
     "is_final": "0"
   },
   {
+    "id": "39214",
+    "name": "Магістр Терапія мови і мовлення",
+    "parent_id": null,
+    "is_final": "0"
+  },
+  {
+    "id": "35406",
+    "name": "Безпека діяльності роботи парамедика",
+    "parent_id": null,
+    "is_final": "0"
+  },
+  {
+    "id": "35918",
+    "name": "Категорія",
+    "parent_id": null,
+    "is_final": "0"
+  },
+  {
+    "id": "38714",
+    "name": "Категорія",
+    "parent_id": null,
+    "is_final": "0"
+  },
+  {
     "id": "38720",
     "name": "Виробнича практика",
     "parent_id": null,
@@ -170,24 +194,6 @@
   {
     "id": "38979",
     "name": "Косметологія",
-    "parent_id": null,
-    "is_final": "0"
-  },
-  {
-    "id": "35406",
-    "name": "Безпека діяльності роботи парамедика",
-    "parent_id": null,
-    "is_final": "0"
-  },
-  {
-    "id": "35918",
-    "name": "Категорія",
-    "parent_id": null,
-    "is_final": "0"
-  },
-  {
-    "id": "38714",
-    "name": "Категорія",
     "parent_id": null,
     "is_final": "0"
   }
