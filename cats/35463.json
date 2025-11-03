@@ -4,5 +4,11 @@
     "name": "Взірець",
     "parent_id": "35463",
     "is_final": "1"
+  },
+  {
+    "id": "39327",
+    "name": "PHYSIO Final Test (Year III)",
+    "parent_id": "35463",
+    "is_final": "1"
   }
 ]
