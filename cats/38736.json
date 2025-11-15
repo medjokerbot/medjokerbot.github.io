@@ -1,5 +1,11 @@
 [
   {
+    "id": "39434",
+    "name": "Т «Клінічні аспекти імунопрофілактики»",
+    "parent_id": "38736",
+    "is_final": "1"
+  },
+  {
     "id": "38737",
     "name": "Т \"Clinical Parasitology and Tropical Medicine\"",
     "parent_id": "38736",

@@ -1,5 +1,11 @@
 [
   {
+    "id": "39436",
+    "name": "Т \"Clinical Parasitology and Tropical Medicine\"",
+    "parent_id": "38732",
+    "is_final": "1"
+  },
+  {
     "id": "38738",
     "name": "Т \"Clinical Parasitology and Tropical Medicine\"",
     "parent_id": "38732",
